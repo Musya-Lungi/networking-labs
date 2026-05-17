@@ -1,7 +1,0 @@
-
-• Learn TCP (Transmission Control Protocol): connection-oriented, 3-way handshake (SYN, SYN-ACK, ACK)
-• Understand TCP reliability: sequence numbers, acknowledgements, retransmission, windowing
-• Learn UDP (User Datagram Protocol): connectionless, no guarantee, lower overhead
-• Understand when TCP is used vs UDP: HTTP/HTTPS/FTP/SSH vs DNS/DHCP/TFTP/VoIP/video
-• Learn well-known port numbers: 20/21 FTP, 22 SSH, 23 Telnet, 25 SMTP, 53 DNS, 67/68 DHCP, 80 HTTP, 443 HTTPS,161 SNMP
-• Understand socket: IP + port number = socket; how servers listen on ports
